@@ -13,7 +13,7 @@ import Exception0512.home_work_exception0512_3result.wrong_melons_exception.Wron
 // v 6. WrongPasswordException и WrongLoginException - пользовательские классы исключения 
 //с двумя конструкторами – один по умолчанию, второй принимает сообщение исключения и передает его в конструктор класса Exception.
 // V 7. Обработка исключений проводится внутри метода.
-// 8. Метод возвращает true, если значения верны или false в другом случае.
+// V 8. Метод возвращает true, если значения верны или false в другом случае.
 public class Main {
     public static void main(String[] args) throws WrongLoginException, WrongPaasswordException {
 
